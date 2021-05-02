@@ -1,5 +1,5 @@
 
- <img align="right" alt="png" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/dp.png?raw=true" width="20%" height="20%" />
+ <img align="left" alt="gif" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/me.gif?raw=true" width="20%" height="20%" />
  
 <h1 align="center">Hi 👋, I'm Zeeshan Keerio</h1>
 
