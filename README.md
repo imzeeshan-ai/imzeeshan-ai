@@ -1,8 +1,7 @@
 
- <img align="top" alt="gif" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/gif.gif?raw=true" width="100%" height="360" />
+ <img align="top" alt="gif" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/zeeshankeerio.gif?raw=true" width="100%" height="100%" />
 
 
-Here are some ideas to get you started:
 
 ## I'm a Student, Professional, Developer, Creator, and Mentor!!
 - 🔭 I’m currently working as an AI Engineer intern at optimizia and Professional teacher at TeacherOn
