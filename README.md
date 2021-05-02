@@ -1,7 +1,24 @@
 
- <img align="top" alt="png" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/keerio.png?raw=true" width="100%" height="100%" />
+ <img align="right" alt="png" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/dp.png?raw=true" width="100%" height="100%" />
+ 
+<h1 align="center">Hi 👋, I'm Zeeshan Keerio</h1>
+<p>
+A self-motivated professional with the ability to create new ideas, with a BS degree in Computer Science.
+
+I have learned how to translate business requirements into technical solutions, how to apply AI and Machine Learning algorithms to automate complex tasks, and have a good understanding of Data Science, Machine Learning, deep learning, image processing and agile development methodologies.
+
+Hands-on experienced at creating data regression, classification models and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems and also have experience in learning and excelling at new technologies as needed.
+
+I have strategically focused my coursework in the following areas:
+
+Artificial Intelligence
+Data Science
+Machine Learning
+Image processing
+Project Management.
 
 
+</p>
 
 ## I'm a Student, Professional, Developer, Creator, and Mentor!!
 - 🔭 I’m currently working as an AI Engineer intern at optimizia and Professional teacher at TeacherOn
