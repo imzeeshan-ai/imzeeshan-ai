@@ -1,6 +1,6 @@
 ### Hello, I'm Zeeshan Keerio  👋
 
- <img align="right" alt="png" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/zeeshan.png?raw=true" width="500" height="320" />
+ <img align="top" alt="png" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/zeeshan.png?raw=true" width="800" height="320" />
 
 
 Here are some ideas to get you started:
