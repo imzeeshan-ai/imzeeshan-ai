@@ -1,5 +1,5 @@
 
- <img align="top" alt="png" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/zeeshan.png?raw=true" width="100%" height="360" />
+ <img align="top" alt="gif" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/zee.gif?raw=true" width="100%" height="360" />
 
 
 Here are some ideas to get you started:
