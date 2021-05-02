@@ -6,7 +6,6 @@
 ## I'm a Student, Professional, Developer, Creator, and Mentor!!
 
 <p>
-A self-motivated professional with the ability to create new ideas, with a BS degree in Computer Science.
 
 I have learned how to translate business requirements into technical solutions, how to apply AI and Machine Learning algorithms to automate complex tasks, and have a good understanding of Data Science, Machine Learning, deep learning, image processing and agile development methodologies.
 
