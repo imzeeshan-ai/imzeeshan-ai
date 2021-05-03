@@ -67,7 +67,6 @@ Artificial Intelligence | Data Science | Machine Learning | Image processing | P
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Notebook" width="60" height="40"/> </a>
 </p>
-<hr>
 <br />
 
 
@@ -78,14 +77,20 @@ Artificial Intelligence | Data Science | Machine Learning | Image processing | P
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imzeeshan-ai&show_icons=true&hide_border=true" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imzeeshan-ai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imzeeshan-ai" />
+</p>
 
-</details>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imzeeshan-ai&theme=tokyonight&show_icons=true&locale=en" alt="imzeeshan-ai" />
+</p>
+<br>
+<hr>
+<div align="center">
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imzeeshan-ai&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imzeeshan-ai" />
+
 
 </details>
 
