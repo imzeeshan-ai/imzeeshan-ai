@@ -16,21 +16,22 @@ I have strategically focused my coursework in the following areas:
 
 Artificial Intelligence | Data Science | Machine Learning | Image processing | Project Management.
 
+<br />
 
 </p>
 
 - 🔭 I’m currently working as an AI Engineer intern at optimizia and Professional teacher at TeacherOn
-- 
+
 - 🌱 I’m currently learning state of the art and modern techiniques to develop AI, DS and Deep Learning models 
-- 
+
 - 👯 I’m looking to collaborate on open source, Data Science projects
-- 
+
 - 🤔 I’m looking for help for eduacting our youth and explore AI 
-- 
+
 - 💬 Ask me about AI | ML | CV & Deep learning also get to know each and everything about it  
-- 
+
 - 📫 How to reach me: Feel Free to Contact using my Gmail or find me on Linkendin 
-- 
+
 - ⚡ Fun fact: I'm a multitalented professional | Singer | having ability to learn faster 
 
 <br />
