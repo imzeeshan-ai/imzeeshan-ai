@@ -1,5 +1,15 @@
 
- <img align="left" alt="gif" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/me.gif?raw=true" width="30%" height="30%" />
+ <img align="left" alt="gif" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/me.gif?raw=true" width="30%" height="30%" 
+ 
+ ### Talk with me, I am kinda awesome:
+<a href="https://www.linkedin.com/in/zeeshan-keerio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
+<a href="https://instagram.com/zeeshankeeryo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zeeshankeeryo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zeeshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zeeshan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/imzeeshan_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://github.com/imzeeshan-ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/imzeeshan_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imzeeshan_ai" height="30" width="40" /></a>
+ 
+ />
  
 <h1 align="center">Hi 👋, I'm Zeeshan Keerio</h1>
 
@@ -19,11 +29,17 @@ Artificial Intelligence | Data Science | Machine Learning | Image processing | P
 </p>
 
 - 🔭 I’m currently working as an AI Engineer intern at optimizia and Professional teacher at TeacherOn
+- 
 - 🌱 I’m currently learning state of the art and modern techiniques to develop AI, DS and Deep Learning models 
+- 
 - 👯 I’m looking to collaborate on open source, Data Science projects
+- 
 - 🤔 I’m looking for help for eduacting our youth and explore AI 
+- 
 - 💬 Ask me about AI | ML | CV & Deep learning also get to know each and everything about it  
+- 
 - 📫 How to reach me: Feel Free to Contact using my Gmail or find me on Linkendin 
+- 
 - ⚡ Fun fact: I'm a multitalented professional | Singer | having ability to learn faster 
 
 
@@ -32,6 +48,12 @@ Artificial Intelligence | Data Science | Machine Learning | Image processing | P
 <a href="https://www.linkedin.com/in/zeeshan-keerio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
 <a href="https://instagram.com/zeeshankeeryo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zeeshankeeryo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zeeshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zeeshan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/imzeeshan_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://github.com/imzeeshan-ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/imzeeshan_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imzeeshan_ai" height="30" width="40" /></a>
+
+
+
 <br />
 
 
