@@ -1,16 +1,13 @@
 
- <img align="left" alt="gif" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/me.gif?raw=true" width="30%" height="30%" 
- 
- ### Talk with me, I am kinda awesome:
+ <img align="left" alt="gif" src="https://github.com/imzeeshan-ai/imzeeshan-ai/blob/main/me.gif?raw=true" width="30%" height="30%" />
+  
+  ### Talk with me, I am kinda awesome:
 <a href="https://www.linkedin.com/in/zeeshan-keerio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
 <a href="https://instagram.com/zeeshankeeryo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zeeshankeeryo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zeeshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zeeshan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/imzeeshan_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
 <a href="https://github.com/imzeeshan-ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/imzeeshan_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imzeeshan_ai" height="30" width="40" /></a>
- 
- />
- 
 <h1 align="center">Hi 👋, I'm Zeeshan Keerio</h1>
 
 ## I'm a Student, Professional, Developer, Creator, and Mentor!!
