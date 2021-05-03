@@ -35,6 +35,11 @@ Artificial Intelligence | Data Science | Machine Learning | Image processing | P
 - ⚡ Fun fact: I'm a multitalented professional | Singer | having ability to learn faster 
 
 <br />
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+<br />
 
 ### Talk with me, I am kinda awesome:
 <a href="https://www.linkedin.com/in/zeeshan-keerio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
