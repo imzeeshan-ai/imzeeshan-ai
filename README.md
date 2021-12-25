@@ -402,14 +402,6 @@ My Current Workstation Specification </h2>
 
 
 
-</details>
-
-[website]: https://imzeeshan-ai.github.io/
-[youtube]: https://www.youtube.com/channel/UCFzjCXfzHRDR8lCDXZBGhTw
-[instagram]: https://www.instagram.com/zeeshankeeryo/
-[linkedin]: https://www.linkedin.com/in/zeeshan-keerio-b6a381142/
-[portfolio]: https://imzeeshan-ai.github.io/
-
 
 <br />
 	
