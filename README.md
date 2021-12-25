@@ -349,25 +349,6 @@ My Current Workstation Specification </h2>
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imzeeshan-ai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="imzeeshan-ai" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imzeeshan-ai&theme=tokyonight&show_icons=true&locale=en" alt="imzeeshan-ai" />
-</p>
-<br>
-<hr>
-<div align="center">
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imzeeshan-ai&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
-
-
-
-</details>
 
 [website]: https://imzeeshan-ai.github.io/
 [youtube]: https://www.youtube.com/channel/UCFzjCXfzHRDR8lCDXZBGhTw
