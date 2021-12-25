@@ -42,26 +42,37 @@ Artificial Intelligence | Data Science | Machine Learning | Image processing | P
 
 <br />
 
+     
 <div align="center">
-     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeeshankeerio&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshankeerio&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zeeshankeerio&theme=onestar&no-frame=true&column=3&row=2)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeeshankeerio&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+## My Statistics
 
+<br/>
+<p align="left">
+  <a href="https://zeeshankeerio.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zeeshankeerio&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshankeerio&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
-[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
+[![Zeeshan Keerio's' Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeeshankeerio&custom_title=zeeshankeerio%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://zeeshankeerio.dev)
 
-[![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
-[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/zeeshankeerio?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/zeeshankeerio?tab=repositories&q=&type=&language=&sort=stargazers)
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/zeeshankeerio?&logoColor=red&style=social">](https://github.com/zeeshankeerio?tab=followers)
-[<img alt="GitHub forks" src="https://img.shields.io/github/forks/zeeshankeerio/TranslatorSelenium?logoColor=red&style=social">](https://github.com/zeeshankeerio/TranslatorSelenium/network/members)
-          
-     
 <div/>
-
+          
+    
 <h2 align="center">
 Technologies and Languages </h2>
 
