@@ -348,7 +348,6 @@ My Current Workstation Specification </h2>
 
 <br />
 
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
