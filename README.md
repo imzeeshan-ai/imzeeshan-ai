@@ -147,7 +147,7 @@ My Current Workstation Specification </h2>
 </div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div align="center">
+	
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -260,7 +260,6 @@ My Current Workstation Specification </h2>
 </p>
 
 <br/>
-<div/>
 
 
 <div align="center">
