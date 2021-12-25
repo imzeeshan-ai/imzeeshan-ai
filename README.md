@@ -348,40 +348,6 @@ My Current Workstation Specification </h2>
 
 <br />
 
-### Talk with me, I am kinda awesome:
-<a href="https://www.linkedin.com/in/zeeshan-keerio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
-<a href="https://instagram.com/zeeshankeeryo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zeeshankeeryo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zeeshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zeeshan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imzeeshan_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://github.com/imzeeshan-ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/imzeeshan_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imzeeshan_ai" height="30" width="40" /></a>
-
-
-<br />
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- 
-
-<a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40px" height="40px"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Notebook" width="60" height="40"/> </a>
-</p>
-<br />
-
-
 ---
 
 <details>
@@ -401,6 +367,14 @@ My Current Workstation Specification </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imzeeshan-ai&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
 
+
+</details>
+
+[website]: https://imzeeshan-ai.github.io/
+[youtube]: https://www.youtube.com/channel/UCFzjCXfzHRDR8lCDXZBGhTw
+[instagram]: https://www.instagram.com/zeeshankeeryo/
+[linkedin]: https://www.linkedin.com/in/zeeshan-keerio-b6a381142/
+[portfolio]: https://imzeeshan-ai.github.io/
 
 
 <br />
